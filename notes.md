@@ -21,3 +21,6 @@ const square2 = x => x * x;
 
 The call stack
 It is the amount of memory used by the compurer to handle calls between programs.
+
+Pure functions are the ones that doesn't have side effects and return a value, for the same arguments return always the same values, it means pure functions don't rely on side effects from other code.
+
